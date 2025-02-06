@@ -49,4 +49,7 @@ The application performs sentiment classification on user input, categorizing th
 - **Model/Feature Improvements**: If you plan to upgrade the model in the future, you could also mention experimenting with hyperparameter tuning or implementing cross-validation techniques.
 - **UI/UX**: You could mention how you plan to enhance the user interface for even better experience (like adding multiple input forms or displaying confidence scores).
 
+### Dataset:
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 Other than that, it looks well structured and informative!
